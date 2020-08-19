@@ -1,7 +1,7 @@
 import h5py
-import os, numpy as np
+import os, numpy as np, plot as plot
 import feature_extraction as fe
-from feature_extraction import time_dist_threshold
+from feature_extraction import time_dist_threshold as tdt
 from importlib import reload
 reload(fe)
 
