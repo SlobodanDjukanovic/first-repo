@@ -1,2 +1,4 @@
 # first-repo
-Let's start with github
+
+We will, we will rock you!
+Now we have some changes which should ilustrate work with commits.
