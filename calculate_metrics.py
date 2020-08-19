@@ -1,6 +1,5 @@
 import h5py
-import os
-import numpy as np
+import os, numpy as np
 import feature_extraction as fe
 from feature_extraction import time_dist_threshold
 from importlib import reload
